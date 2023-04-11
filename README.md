@@ -11,7 +11,7 @@ Our app was created with the intention of resolving the aforementioned problems 
 
 # Screenshots:
 
-
+<img src="https://user-images.githubusercontent.com/75004278/231238101-4e0e0d16-fe54-4ec7-b1c9-ad592637fb38.jpg" width="100" height="100">
 ![IMG-20230405-WA0018](https://user-images.githubusercontent.com/75004278/231238101-4e0e0d16-fe54-4ec7-b1c9-ad592637fb38.jpg) ![IMG-20230405-WA0011](https://user-images.githubusercontent.com/75004278/231238113-fccc956b-8140-4d74-937a-7cb6bf24daf1.jpg)
 
 ![IMG-20230405-WA0012](https://user-images.githubusercontent.com/75004278/231238118-d8bf4e1a-91aa-4f82-9bdb-2987166d78ed.jpg)
