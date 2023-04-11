@@ -11,11 +11,6 @@ Our app was created with the intention of resolving the aforementioned problems 
 
 # Screenshots:
 
-<img src="https://user-images.githubusercontent.com/75004278/231238147-b6e43b06-6a1b-485e-88e8-b846bf9e07e9.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238118-d8bf4e1a-91aa-4f82-9bdb-2987166d78ed.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238101-4e0e0d16-fe54-4ec7-b1c9-ad592637fb38.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238101-4e0e0d16-fe54-4ec7-b1c9-ad592637fb38.jpg" width="250" height="500">|
-
-
-![IMG-20230405-WA0011](https://user-images.githubusercontent.com/75004278/231238113-fccc956b-8140-4d74-937a-7cb6bf24daf1.jpg)
-![IMG-20230405-WA0012](https://user-images.githubusercontent.com/75004278/231238118-d8bf4e1a-91aa-4f82-9bdb-2987166d78ed.jpg)
-![IMG-20230405-WA0013](https://user-images.githubusercontent.com/75004278/231238123-d02d19eb-1831-4979-9c44-cbc6851917b9.jpg)
-![IMG-20230405-WA0014](https://user-images.githubusercontent.com/75004278/231238134-d901394b-0226-401c-b996-4bfec76fad96.jpg)
-![IMG-20230405-WA0015](https://user-images.githubusercontent.com/75004278/231238143-a9d0be93-c687-4cf3-b120-0d55ce0905a6.jpg)
+<img src="https://user-images.githubusercontent.com/75004278/231238147-b6e43b06-6a1b-485e-88e8-b846bf9e07e9.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238118-d8bf4e1a-91aa-4f82-9bdb-2987166d78ed.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238101-4e0e0d16-fe54-4ec7-b1c9-ad592637fb38.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238113-fccc956b-8140-4d74-937a-7cb6bf24daf1.jpg" width="250" height="500">|
+<img src="https://user-images.githubusercontent.com/75004278/231238118-d8bf4e1a-91aa-4f82-9bdb-2987166d78ed.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238123-d02d19eb-1831-4979-9c44-cbc6851917b9.jpg" width="250" height="500">|<img src="https://user-images.githubusercontent.com/75004278/231238134-d901394b-0226-401c-b996-4bfec76fad96.jpg" width="250" height="500">|
+<img src="https://user-images.githubusercontent.com/75004278/231238143-a9d0be93-c687-4cf3-b120-0d55ce0905a6.jpg" width="250" height="500">|
